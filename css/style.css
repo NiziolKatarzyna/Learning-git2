@@ -24,17 +24,6 @@ body {
   font-size: 45px;
 }
 
-.title::after {
-  position: absolute;
-  content: '';
-  bottom: -24px;
-  left: 50%;
-  width: 100px;
-  height: 5px;
-  transform: translateX(-50%);
-  background-color: #000;
-}
-
 p {
   padding-left: 50px;
 }
